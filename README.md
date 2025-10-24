@@ -19,4 +19,4 @@ This file describes step-by-step how to do it.
    cd new-project
    git init -b main
 Task completed according to Jira requirements
-PROM-42164 #comment Add final README version in development branc
+PROM-42164 #comment Add final README version in development branch
